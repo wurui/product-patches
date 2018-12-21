@@ -17,8 +17,8 @@
     <data>
         <ecom-products>
             <i>
-                <title>纯色毛绒哈居拖鞋</title>
-                <brief>居家伴侣</brief>
+                <title>100％纯天然饲料养殖猪肉</title>
+                <brief>高纬度阳光怎么样100天照射</brief>
                 <price>19.9</price>
                 <orig_price>29.9</orig_price>
                 <inventory>10</inventory>
@@ -28,14 +28,15 @@
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj9mzTjouwic2tRwkj2Agdb-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c633Tj9i8pfmpRz64nA2n6w-667.jpg</src>
                         <type>image</type>
                     </i>
+                    
                 </media>
             </i>
             <i>
-                <title>Amozon Kindle7 Paperwhite</title>
-                <brief>最新款　性能强大　阅读伴侣</brief>
+                <title>Amoz风格餐具6件套</title>
+                <brief>实用主义轻奢主义，让用餐充满这个时代应有的仪式感</brief>
                 <price>699</price>
                 <orig_price>899</orig_price>
                 <inventory>10</inventory>
@@ -45,11 +46,31 @@
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj88vTjouwidgxRg5ftA80l-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/2a4zsm3jiTjeckfi6aRt1dyA6xhi-1623.png</src>
                         <type>image</type>
                     </i>
                 </media>
             </i>
+
+            
+            <i>
+                <title>那年秋天高海拔大米</title>
+                <brief>口感细腻，营养丰富原稻香。原产地水源保护</brief>
+                <price>699</price>
+                <orig_price>899</orig_price>
+                <inventory>10</inventory>
+                <category></category>
+                <sold>0</sold>
+                <owner>git/wurui</owner>
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29u0furmoTjpbx6u34RjriwAau3-1000.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+
         </ecom-products>
     </data>
 </root>

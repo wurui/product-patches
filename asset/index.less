@@ -1,3 +1,87 @@
 .oxmod-product-patches{
 /* CSS */
+	padding: 10px;
+	a{
+		color:inherit;
+	}
+	ul>li{
+		position: relative;
+		overflow: hidden;
+		margin-bottom: 20px;
+		&:nth-child(2n-1){
+			text-align:left;
+			
+			.textbox{
+				
+				right:0;
+				
+			}
+
+		}
+		&:nth-child(2n){
+			text-align:right;
+			
+			.textbox{
+				
+				left:0;
+				
+			}
+		}
+		
+	}
+	.mainpic{
+		width:50%;
+		height:0;
+		padding-bottom: 75%;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		
+	}
+	.textbox{
+		position: absolute;
+		width:55%;
+		bottom:30px;
+	}
+	.landscape{
+		.mainpic{
+			width: 70%;
+			padding-bottom: 50%;
+		}
+		.textbox{
+			width:40%;
+			
+		}
+		
+	}
+
+	.title{
+		text-shadow: 0 1px 1px #fff;
+		color:#333;
+		font-size: 16px;
+		font-weight: 400;
+		overflow : hidden;
+		text-overflow: ellipsis;
+		margin-bottom: 10px;
+		letter-spacing: 1px;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		white-space: normal;
+		
+		//white-space: nowrap;
+	}
+	.brief{
+		padding: 10px;
+		background-color: #fff;
+		font-size: 12px;
+		color:#999;
+
+		overflow : hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-line-clamp: 4;
+		-webkit-box-orient: vertical;
+		white-space: normal;
+	}
  }
